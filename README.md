@@ -1,2 +1,2 @@
-# Artigo-Cient-fico
+# Artigo Científico
 Repositório dos resultados.
